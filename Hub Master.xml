@@ -42,7 +42,7 @@
   </trigger>
   <trigger type="notification_status_bar_displayed">
     <useDefaultName>false</useDefaultName>
-    <name>𝐀𝐮𝐭𝐨 𝐑𝐮𝐧</name>
+    <name>𝐀𝐮𝐭𝐨 𝐑𝐮𝐧.</name>
     <enabled>false</enabled>
     <packageNameFilter>th.in.robinhood.rider</packageNameFilter>
     <textMatchField>TEXT</textMatchField>
